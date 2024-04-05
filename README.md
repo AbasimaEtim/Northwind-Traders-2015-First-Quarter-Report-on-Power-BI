@@ -90,7 +90,7 @@ Based on the analysis, the net sales for the first half of 2015 totaled $441,000
 ```
 Net sales = unit price * quantity * (1-discount)
 ```
-The average discount applied across all transactions during this period was 5%. 691 transactions has been placed and there are 76 unique products available in the store.
+The average discount applied during this period was 5%. 691 transactions has been placed and there are 76 unique products available in the store.
 
 ---------
 - Which products drove the highest net sales in the first half of 2015?
@@ -105,7 +105,7 @@ This shows that the top 5 products that drove the higest net sales include: Côt
 ![](Bottom-5Product.png)
 
 This analysis identified the following products as having the lowest net sales in the first half of 2015: Chocolade (confections), Louisiana Hot Spiced Okra (condiment), Mishi Kobe Niku (Meat and Poultry), Röd Kaviar (Seafood) and Tofu (Produce). 
-This might be as a result of the quantity, quality of the product, amount at wich the product is being sold and Marketing & Promotion( They might be needing more marketing efforts to raise awareness and drive sales) 
+This might be as a result of the quantity, quality of the product, amount at which the product is being sold and Marketing & Promotion( They might be needing more marketing efforts to raise awareness and drive sales) 
 
 ------
 - What is the average order value for the top 5 products?
@@ -123,8 +123,11 @@ For the firat half of 2015, all Discount levels leads to increased Sales Quantit
 
 ----
 
-#### Product Performance Analysis Report 
- ![]()
+ ![](Product_Performance_Page.png)
+
+#### *Product Performance Analysis Report Page*
+
+-----
 
 ### Formulating Critical Questions and KPIs ( *Customer Behavior Analysis*)
 - Total customers in the last quarter of 2015.
@@ -163,7 +166,7 @@ In the past quarter of 2015, Northwind Traders had it highest order in Apirl
 
 ![](customer_count_by_country.png)
 
-Northwind Traders had it higest number of customers coming from Germany and USA, a total of 11 customers each with the higest revenue gereated from these countries. 
+Northwind Traders had it higest number of customers coming from Germany and USA, a total of 11 customers each with the highest revenue generated from these countries. 
 
 -----
 
@@ -171,13 +174,16 @@ Northwind Traders had it higest number of customers coming from Germany and USA,
 
 ![](Customer_preference.png)
 
-For the last Quarter of 2015, most of Northwind top customers are interested in Beverages, Dairy products. Horst Kloss, one of Northwind Traders' customers buys more of Beverages worth $21k, same with Mario Pontes
+For the last Quarter of 2015, most of Northwind top customers were interested in Beverages, Dairy products, and confectionaries. Horst Kloss, one of Northwind Traders' top customers buys more of Beverages worth $21k, same with Mario Pontes, while Roland Mendel purchases more of Dairy products and Beverages.
 
+
+![](customer-behaviour-report.png)
+#### *Customer Behavior Report Page*
 
 ## Conclusions:
-- One of the things that cause customer's return to purchase is the discount rate applied to product in each month. Therefore Northwind Traders can use this discount rate per month strategy alongside other marketing initiative to get more loyal customers.
+- One of the things that cause customer's return to purchase is the discount rate applied to product in each month. Therefore Northwind Traders can use this discount rate per month strategy along side other marketing initiative to get more loyal customers.
 
-- Products like Côte de Blaye, Thüringer Rostbratwurst, Raclette Courdavault, Camembert Pierrot, Tarte au sucre, and other top products should not be lacking in Northwind Traders' warehouse as most customers are interested in them. Northwind should make sure that they have enough of these products by maintain a good relationship pattern with their suppliers and also closely monitor sales trends and demand patterns from these products. 
+- Products like Côte de Blaye, Thüringer Rostbratwurst, Raclette Courdavault, Camembert Pierrot, Tarte au sucre, and other top products should not be lacking in Northwind Traders' warehouse as most customers are interested in them. Northwind should make sure that they have enough of these products by maintaining a good relationship pattern with their suppliers and also closely monitor sales trends and demand patterns from these products. 
 
 - From the analysis, it is realized that different customers in Northwind Traders are interested in different products, therefore Northwind Traders should ensure their customer's databases are enriched with the right information about their customers' preferences
 
@@ -188,8 +194,7 @@ For the last Quarter of 2015, most of Northwind top customers are interested in 
   
 - Northwind Traders should develop targeted marketing strategies to reach top-purchasing countries effectively, while also implementing promotions or advertising campaigns to boost sales in countries with lower purchasing rates.
 
-- Northwind Traders should prioritize improving their shipping logistics to ensure timely and reliable delivery of products to customers as the month of May 
-
+- Northwind Traders should prioritize improving their shipping companies to ensure timely and reliable delivery of products to customers as the month of May most product ordered were not shipped. 
 
 
 
