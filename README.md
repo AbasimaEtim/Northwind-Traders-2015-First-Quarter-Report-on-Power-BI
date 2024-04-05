@@ -123,6 +123,9 @@ For the firat half of 2015, all Discount levels leads to increased Sales Quantit
 
 ----
 
+#### Product Performance Analysis Report 
+ ![]()
+
 ### Formulating Critical Questions and KPIs ( *Customer Behavior Analysis*)
 - Total customers in the last quarter of 2015.
 - what is the quantity sold in the last quarter reflects customer demand and satisfaction.
