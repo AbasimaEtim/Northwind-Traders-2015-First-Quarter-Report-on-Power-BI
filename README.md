@@ -62,7 +62,7 @@ The dataset, consisting of seven (7) different CSV files, was shared and importe
 ##### *Nulls in Orders table (Shipping_date column)*
 
 ## Data modeling:
-After various transformations, I loaded the data into Power BI to work on the data model and created a snowflake model
+After applying several transformations, I imported the data into Power BI to develop the data model. I can establish the necessary relationships between the tables using the correct primary and foreign keys.
 
 ![](modelling-northwind.png)
 ##### *Northwind Data Model*
