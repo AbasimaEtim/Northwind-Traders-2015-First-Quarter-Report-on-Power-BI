@@ -1,4 +1,4 @@
-# Data Analysis of Northwind Treaders for the First Half of 2015
+![image](https://github.com/AbasimaEtim/Northwind-Traders-2015-First-Quarter-Report-on-Power-BI/assets/149160204/85912702-8518-4c70-8cdd-0bdb42f0d6c1)# Data Analysis of Northwind Treaders for the First Half of 2015
 
 ![](gourmet-food-products.jpeg)
 ## Introduction: 
@@ -76,33 +76,61 @@ The report covers two pages: Product Performance Analysis and Customer Performan
 ### Formulating Critical Questions and KPIs ( *Product Performance Analysis*)
 - What is the net sales for the first half of 2015?
 - What is the average discount applied over the last 6 months?
-- Number of order placed in the last months
+- Number of transactions placed in the last months
 - Total number of products available
-
-  
 - Which products drove the highest net sales in the first half of 2015?
 - What are the least 5 products, their category and net sales?
 - What is the average order value for the top 5 products?
 - What impact did discounts have on net sales during the first quarter of 2015?  and how effective were they in driving revenue growth?
 
+ #### Results: 
+ ![](Procuct_KPIs.png)
+Based on the analysis, the net sales for the first half of 2015 totaled $441,000. A custom column was created in Power BI to calculate net sales using the following formula:
+```
+Net sales = unit price * quantity * (1-discount)
+```
+The average discount applied across all transactions during this period was 5%. 691 transactions has been placed and there are 76 unique products available in the store.
+
+- Which products drove the highest net sales in the first half of 2015?
+![](Top_products.png)
+
+This shows that the top 5 products that drove the higest net sales include: Côte de Blaye with $67k, followed by Thüringer Rostbratwurst with $34k, Raclette Courdavault with $26k,  Camembert Pierrot and Tarte au sucre $17k and $16k respectively.
+
+- What are the least 5 products, their category and net sales?
+![](Bottom-5Product.png)
+
+This analysis identified the following products as having the lowest net sales in the first half of 2015: Chocolade (confections), Louisiana Hot Spiced Okra (condiment), Mishi Kobe Niku (Meat and Poultry), Röd Kaviar (Seafood) and Tofu (Produce). 
+This might be as a result of the quantity, quality of the product, amount at wich the product is being sold and Marketing & Promotion( They might be needing more marketing efforts to raise awareness and drive sales) 
+
+- What is the average order value for the top 5 products?
+![](AVG_Order_Product .png)
+
+Products with the average order value include; Côte de Blaye, Thüringer Rostbratwurst, Raclette Courdavault, Sir Rodney's Marmalade and Vegie-spread with 
+
+- What impact did discounts have on net sales during the first quarter of 2015?  and how effective were they in driving revenue growth?
+![](netsales-by-month.png)
+
+For the firat half of 2015, all Discount levels leads to increased Sales Quantities over no discount. 
 
 
 ### Formulating Critical Questions and KPIs ( *Customer Behavior Analysis*)
-What is the net sales for the first half of 2015,
-What is the average discount applied over the last 6 months?
-Number of order placed in the last months
-Total number of products available
-
-Which products drove the highest net sales in the first half of 2015?
-What are the least 5 products, their category and net sales?
-What is the average order value for the top 5 products?
-What impact did discounts have on net sales during the first quarter of 2015?  and how effective were they in driving revenue growth?
+- Total customers in the last quarter of 2015.
+- what is the quantity sold in the last quarter reflects customer demand and satisfaction.
+- Number of countries Northwind conducted business with in the last quarter.
+- Top 10 customers by purchases.
+- Customers with the highest quantity purchases.
+- Countries with the highest number of customers and their contribution to revenue growth.
+- Customer purchasing patterns and product preferences over the last quarter.
 
 
+#### Results: 
+![](customers-KPIs.png) 
+Based on the analysis, Northwind Treaders had 81 customers in the first half of 2015. a Total of 270 orders was placed and a total number of 21 countries did business with Northwind Traders.
 
+- Top 10 customers by Net sales
+  ![](Top-10.png)
 
+This shows that the top customers in the Northwind Traders market include Roland Mendel, Horst Kloss, Jose Pavarotti as top 3 with the net sales of $41k, $37k, and $36k respectively. Others are also listed in the visual.
 
-
-
- 
-
+- Customers with the highest quantity purchases.
+ ![]() 
