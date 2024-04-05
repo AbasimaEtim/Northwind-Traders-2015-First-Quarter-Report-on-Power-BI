@@ -1,4 +1,4 @@
-![image](https://github.com/AbasimaEtim/Northwind-Traders-2015-First-Quarter-Report-on-Power-BI/assets/149160204/85912702-8518-4c70-8cdd-0bdb42f0d6c1)# Data Analysis of Northwind Treaders for the First Half of 2015
+# Data Analysis of Northwind Treaders for the First Half of 2015
 
 ![](gourmet-food-products.jpeg)
 ## Introduction: 
