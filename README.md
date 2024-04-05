@@ -83,7 +83,7 @@ The report covers two pages: Product Performance Analysis and Customer Performan
 - What is the average order value for the top 5 products?
 - What impact did discounts have on net sales during the first quarter of 2015?  and how effective were they in driving revenue growth?
 
- #### Results: 
+ #### Results:
  ![](Procuct_KPIs.png)
  
 Based on the analysis, the net sales for the first half of 2015 totaled $441,000. A custom column was created in Power BI to calculate net sales using the following formula:
@@ -174,9 +174,9 @@ For the last Quarter of 2015, most of Northwind top customers are interested in 
 ## Conclusions:
 - One of the things that cause customer's return to purchase is the discount rate applied to product in each month. Therefore Northwind Traders can use this discount rate per month strategy alongside other marketing initiative to get more loyal customers.
 
-- Products like Côte de Blaye, Thüringer Rostbratwurst, Raclette Courdavault, Camembert Pierrot, Tarte au sucre, and other top products should not be lacking in Northwind Traders' Warehouse as most customers are interested in them. Northwind should make sure that they have enough of these products by maitaing a good relationship pattern with their suppliers and also closely monitor sales trends and demand patterns from thes products. 
+- Products like Côte de Blaye, Thüringer Rostbratwurst, Raclette Courdavault, Camembert Pierrot, Tarte au sucre, and other top products should not be lacking in Northwind Traders' warehouse as most customers are interested in them. Northwind should make sure that they have enough of these products by maintain a good relationship pattern with their suppliers and also closely monitor sales trends and demand patterns from these products. 
 
-- From the analysis, it is realized that different customers in Northwind Traders are interested in different products, therefore Northwind Traders should ensure their customer databases are enriched with the right information about their customers' preferences
+- From the analysis, it is realized that different customers in Northwind Traders are interested in different products, therefore Northwind Traders should ensure their customer's databases are enriched with the right information about their customers' preferences
 
 ## Recommendations
 - Northwind Traders should consider adjusting or maintaining product discounts monthly to optimize sales volume without compromising profitability.
