@@ -177,7 +177,7 @@ Northwind Traders had it higest number of customers coming from Germany and USA,
 For the last Quarter of 2015, most of Northwind top customers were interested in Beverages, Dairy products, and confectionaries. Horst Kloss, one of Northwind Traders' top customers buys more of Beverages worth $21k, same with Mario Pontes, while Roland Mendel purchases more of Dairy products and Beverages.
 
 
-![](customer-behaviour-report.png)
+![](CustomerBehaviourRP.png)
 #### *Customer Behavior Report Page*
 
 ## Conclusions:
