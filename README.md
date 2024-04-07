@@ -1,4 +1,4 @@
-# Data Analysis of Northwind Treaders for the First Half of 2015
+# Data Analysis of Northwind Traders for the First Half of 2015
 
 ![](gourmet-food-products.jpeg)
 ## Introduction: 
