@@ -62,7 +62,7 @@ The dataset, consisting of seven (7) different CSV files, was shared and importe
 ##### *Nulls in Orders table (Shipping_date column)*
 
 ## Data modeling:
-After applying several transformations, I imported the data into Power BI to develop the data model. I can establish the necessary relationships between the tables using the correct primary and foreign keys.
+After applying several transformations, I imported the data into Power BI to develop the data model. I establish the necessary relationships between the tables using the correct primary and foreign keys.
 
 ![](modelling-northwind.png)
 ##### *Northwind Data Model*
@@ -90,14 +90,14 @@ Based on the analysis, the net sales for the first half of 2015 totaled $441,000
 ```
 Net sales = unit price * quantity * (1-discount)
 ```
-The average discount applied during this period was 5%. 691 transactions has been placed and there are 76 unique products available in the store.
+The average discount applied during this period was 5%. 691 transactions has been placed and there were 76 unique products available in the store.
 
 ---------
 - Which products drove the highest net sales in the first half of 2015?
 
 ![](Top_products.png)
 
-This shows that the top 5 products that drove the higest net sales include: Côte de Blaye with $67k, followed by Thüringer Rostbratwurst with $34k, Raclette Courdavault with $26k,  Camembert Pierrot and Tarte au sucre $17k and $16k respectively.
+This shows that the top 5 products that drove the higest net sales include: Côte de Blaye with $67k, followed by Thüringer Rostbratwurst with $34k, Raclette Courdavault with $26k,  Camembert Pierrot and Tarte au sucre with $17k and $16k respectively.
 
 ---------
 - What are the least 5 products, their category and net sales?
@@ -194,7 +194,7 @@ For the last Quarter of 2015, most of Northwind top customers were interested in
   
 - Northwind Traders should develop targeted marketing strategies to reach top-purchasing countries effectively, while also implementing promotions or advertising campaigns to boost sales in countries with lower purchasing rates.
 
-- Northwind Traders should prioritize improving their shipping companies to ensure timely and reliable delivery of products to customers as the month of May most product ordered were not shipped. 
+- Northwind Traders should prioritize improving their shipping companies to ensure timely and reliable delivery of products to customers as in the month of May most product ordered were not shipped. 
 
 
 
