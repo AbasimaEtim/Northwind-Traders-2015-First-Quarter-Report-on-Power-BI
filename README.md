@@ -84,7 +84,7 @@ The report covers two pages: Product Performance Analysis and Customer Performan
 - What impact did discounts have on net sales during the first quarter of 2015?  and how effective were they in driving revenue growth?
 
  #### Results:
- ![](Procuct_KPIs.png)
+ ![](ProductPKPIs.png)
  
 Based on the analysis, the net sales for the first half of 2015 totaled $441,000. A custom column was created in Power BI to calculate net sales using the following formula:
 ```
@@ -123,7 +123,7 @@ For the firat half of 2015, all Discount levels leads to increased Sales Quantit
 
 ----
 
- ![](Product_Performance_Page.png)
+ ![](ProductPReportPage.png)
 
 #### *Product Performance Analysis Report Page*
 
@@ -156,7 +156,7 @@ This shows that the top customers in the Northwind Traders market include Roland
 
 - Customers order trend by month.
 
- ![](order_Trendbynonth.png) 
+ ![](CustomerTrendbyMonth.png) 
 
 In the past quarter of 2015, Northwind Traders had it highest order in Apirl
 
